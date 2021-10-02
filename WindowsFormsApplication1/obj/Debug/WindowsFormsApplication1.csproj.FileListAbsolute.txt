@@ -1,0 +1,229 @@
+C:\Users\admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\10711241 (1)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\10711241 (1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\10711241 (1)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\debbyc\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\debbyc\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\debbyc\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\debbyc\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\debbyc\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\debbyc\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\debbyc\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\debbyc\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\debbyc\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\1.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\10.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\11.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\2.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\3.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\4.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\5.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\6.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\7.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\8.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\9.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song1.wav
+C:\Users\admin\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song2.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\1.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\10.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\11.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\2.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\3.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\4.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\5.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\6.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\7.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\8.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\9.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song1.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song2.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\amazarashi - 僕が死のうと思ったのは.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\命ばっかり ver luz.wav
+C:\Users\debbyc\Desktop\Desktop\Desktop\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\米津玄師 MV「LOSER」.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\1.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\10.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\11.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\2.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\3.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\4.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\5.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\6.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\7.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\8.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\9.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\amazarashi - 僕が死のうと思ったのは.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song1.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song2.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\命ばっかり ver luz.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\米津玄師 MV「LOSER」.wav
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\1.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\10.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\11.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\2.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\3.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\4.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\5.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\6.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\7.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\8.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\9.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\amazarashi - 僕が死のうと思ったのは.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song1.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song2.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\命ばっかり ver luz.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\米津玄師 MV「LOSER」.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\1.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\10.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\11.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\2.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\3.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\4.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\5.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\6.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\7.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\8.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\9.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\amazarashi - 僕が死のうと思ったのは.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song1.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song2.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\命ばっかり ver luz.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\米津玄師 MV「LOSER」.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\1.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\10.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\11.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\2.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\3.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\4.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\5.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\6.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\7.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\8.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\9.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\amazarashi - 僕が死のうと思ったのは.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song1.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song2.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\命ばっかり ver luz.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\米津玄師 MV「LOSER」.wav
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\1.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\10.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\11.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\2.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\3.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\4.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\5.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\6.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\7.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\8.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\9.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\amazarashi - 僕が死のうと思ったのは.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song1.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\song2.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\命ばっかり ver luz.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\米津玄師 MV「LOSER」.wav
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題( 更新)\視窗期中專題\10711241 彩色\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
